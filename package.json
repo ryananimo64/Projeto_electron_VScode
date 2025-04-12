@@ -1,0 +1,22 @@
+{
+  "name": "projeto_electron_vscode",
+  "version": "1.0.0",
+  "description": "![GitHub License](https://img.shields.io/github/license/ryananimo64/Projeto_electron_VScode)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryananimo64/Projeto_electron_VScode.git"
+  },
+  "author": "Ryan Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryananimo64/Projeto_electron_VScode/issues"
+  },
+  "homepage": "https://github.com/ryananimo64/Projeto_electron_VScode#readme",
+  "dependencies": {
+    "electron": "^35.1.5"
+  }
+}
