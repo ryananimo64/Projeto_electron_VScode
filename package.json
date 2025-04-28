@@ -16,7 +16,7 @@
     "url": "https://github.com/ryananimo64/Projeto_electron_VScode/issues"
   },
   "homepage": "https://github.com/ryananimo64/Projeto_electron_VScode#readme",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^35.1.5"
   }
 }
